@@ -11,7 +11,9 @@ Das heißt, Spider und GUI sind individuel.
 Dieses Programm basiert auf Python 3.7 mit Beautifulsoup4, re, Scrapy
 
 Für Durchfürung des Spiders gehen Sie einfach in Folder TU_Spider und geben in CMD dieses Befehl:
+```python
 python entrypoint.py
+```
 
 Für Durführung des GUIS:(in dem Folder TU_Vorlesungsverzeichnis_Recherche)
 python GUI_dj.py
