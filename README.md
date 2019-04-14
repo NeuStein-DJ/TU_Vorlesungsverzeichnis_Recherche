@@ -16,4 +16,6 @@ python entrypoint.py
 ```
 
 Für Durführung des GUIS:(in dem Folder TU_Vorlesungsverzeichnis_Recherche)
+```python
 python GUI_dj.py
+```
